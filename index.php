@@ -5,6 +5,11 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+        body{
+            backgtound-color:red;
+        }
+    </style>
 </head>
 <body>
     <p><b>hellow world</b></p>
